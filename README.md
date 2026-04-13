@@ -2,7 +2,7 @@
 
 > Add, update, and fetch contacts from a Notion database via a single webhook endpoint. Email is the only identifier needed — no Notion page IDs required.
 
-**Published on the [n8n Creator Hub](https://n8n.io/creators/tmakkar/) · 150+ views in 17 days.**
+**Published on the [n8n Creator Hub]([https://n8n.io/creators/tmakkar/](https://n8n.io/workflows/14304-add-update-and-fetch-contacts-from-a-notion-database-by-email/)) · 150+ views in 17 days.**
 
 ---
 
@@ -117,7 +117,7 @@ Your Notion database needs these exact columns:
 ## Template
 
 This workflow is published on the n8n Creator Hub. You can use it directly from there without downloading the JSON:
-👉 [View on n8n Creator Hub](https://n8n.io/creators/tmakkar/)
+👉 [View on n8n Creator Hub]([https://n8n.io/creators/tmakkar/](https://n8n.io/workflows/14304-add-update-and-fetch-contacts-from-a-notion-database-by-email/))
 
 ---
 
